@@ -1,7 +1,6 @@
 # Image-Classification
 
-This project applies deep learning techniques to classify histopathology images, aiming to distinguish between cancerous and non-cancerous tissue. The full analysis was developed and run in Google Colab. A complete project report (including figures and discussion) is included in this repository.
-
+This project applies 
 ---
 
 ## Overview
