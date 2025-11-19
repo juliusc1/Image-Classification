@@ -1,0 +1,35 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+*.env
+*.venv
+venv/
+ENV/
+env/
+
+# MacOS system files
+.DS_Store
+
+# Colab / runtime files
+*.swp
+*.swo
+
+# Model weights
+*.h5
+*.pth
+*.pt
+*.ckpt
+
+# Large data directories
+data/
+datasets/
+src/data/
+src/datasets/
